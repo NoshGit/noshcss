@@ -1,0 +1,14 @@
+//Common CSS
+@import './Utils/_reset';
+@import './Utils/fonts';
+@import './Utils/_variables';
+@import './Utils/_colors';
+
+
+//Components
+@import './components/card';
+
+
+body {
+    font-family: Poppins;
+  }
