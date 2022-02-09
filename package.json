@@ -1,0 +1,30 @@
+{
+  "name": "noshcss",
+  "version": "1.0.0",
+  "description": "This Project is to create a new CSS library Using SASS",
+  "main": "noshcss.js",
+  "scripts": {
+    "start": "gulp",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NoshGit/noshcss.git"
+  },
+  "keywords": [
+    "css",
+    "style",
+    "front-end"
+  ],
+  "author": "Noshir Patel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NoshGit/noshcss/issues"
+  },
+  "homepage": "https://github.com/NoshGit/noshcss#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.49.7"
+  }
+}
